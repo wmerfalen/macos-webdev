@@ -16,3 +16,6 @@ brew install --cask font-fira-code
 
 # Alternate terminal choices
 [iTerm 2](https://iterm2.com/)
+
+# Virtual machines
+[Virtual Box](https://www.virtualbox.org/wiki/Downloads)
