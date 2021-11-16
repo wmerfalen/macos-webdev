@@ -14,6 +14,10 @@ brew install --cask font-fira-code
     "editor.fontLigatures": true,
 ```
 
+## Cypress + React eslint rules
+- [https://github.com/cypress-io/eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress)
+
+
 ## vim as default git editor
 ```bash
 git config --global core.editor $(which vim)
