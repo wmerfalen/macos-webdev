@@ -19,3 +19,10 @@ brew install --cask font-fira-code
 
 # Virtual machines
 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+[Docker](https://docs.docker.com/desktop/mac/install/)
+[QEMU](https://www.qemu.org/download/#macos)
+    - Also available via `brew`
+        - `brew install qemu`
+        
+# One-stop shop for lots of common utilities
+[Webi](https://webinstall.dev)
