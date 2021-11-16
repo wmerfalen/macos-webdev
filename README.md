@@ -25,4 +25,5 @@ brew install --cask font-fira-code
         - `brew install qemu`
         
 # One-stop shop for lots of common utilities
-[Webi](https://webinstall.dev)
+- [Webi](https://webinstall.dev)
+  - Effortlessly install developer tools with easy-to-remember URLs.
