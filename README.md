@@ -11,3 +11,5 @@ brew install --cask font-fira-code
     "editor.fontFamily": "Fira Code", 
     "editor.fontLigatures": true,
 ```
+# git autocomplete (for bash or zsh)
+[https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/](https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/)
