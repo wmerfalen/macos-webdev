@@ -13,3 +13,6 @@ brew install --cask font-fira-code
 ```
 # git autocomplete (for bash or zsh)
 [https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/](https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/)
+
+# Alternate terminal choices
+[iTerm 2](https://iterm2.com/)
